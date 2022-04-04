@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/randomgrouping-target</path>
+    <page_callback>CRM_Randomgrouping_Form_TargetGroups</page_callback>
+    <title>TargetGroups</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
