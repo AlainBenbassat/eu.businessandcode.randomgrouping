@@ -1,44 +1,11 @@
 # eu.businessandcode.randomgrouping
 
-![Screenshot](/images/screenshot.png)
+Maakt een zoekactie aan "Maak gerandomiseerde groepen".
 
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
+De geselecteerde contacten worden dan willekeurig in x groepen gestoken.
 
-The extension is licensed under [AGPL-3.0](LICENSE.txt).
+Je kan kiezen in hoeveel groepen de geselecteerde contacten verdeeld worden en de basisnaam van de groepen.
 
-## Requirements
+TODO: translate this in English :-)
 
-* PHP v7.2+
-* CiviCRM (*FIXME: Version number*)
 
-## Installation (Web UI)
-
-Learn more about installing CiviCRM extensions in the [CiviCRM Sysadmin Guide](https://docs.civicrm.org/sysadmin/en/latest/customize/extensions/).
-
-## Installation (CLI, Zip)
-
-Sysadmins and developers may download the `.zip` file for this extension and
-install it with the command-line tool [cv](https://github.com/civicrm/cv).
-
-```bash
-cd <extension-dir>
-cv dl eu.businessandcode.randomgrouping@https://github.com/FIXME/eu.businessandcode.randomgrouping/archive/master.zip
-```
-
-## Installation (CLI, Git)
-
-Sysadmins and developers may clone the [Git](https://en.wikipedia.org/wiki/Git) repo for this extension and
-install it with the command-line tool [cv](https://github.com/civicrm/cv).
-
-```bash
-git clone https://github.com/FIXME/eu.businessandcode.randomgrouping.git
-cv en randomgrouping
-```
-
-## Getting Started
-
-(* FIXME: Where would a new user navigate to get started? What changes would they see? *)
-
-## Known Issues
-
-(* FIXME *)
